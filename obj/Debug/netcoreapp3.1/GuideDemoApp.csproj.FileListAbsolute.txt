@@ -1,0 +1,13 @@
+C:\Users\neill\GuideDemoApp\bin\Debug\netcoreapp3.1\GuideDemoApp.exe
+C:\Users\neill\GuideDemoApp\bin\Debug\netcoreapp3.1\GuideDemoApp.deps.json
+C:\Users\neill\GuideDemoApp\bin\Debug\netcoreapp3.1\GuideDemoApp.runtimeconfig.json
+C:\Users\neill\GuideDemoApp\bin\Debug\netcoreapp3.1\GuideDemoApp.runtimeconfig.dev.json
+C:\Users\neill\GuideDemoApp\bin\Debug\netcoreapp3.1\GuideDemoApp.dll
+C:\Users\neill\GuideDemoApp\bin\Debug\netcoreapp3.1\GuideDemoApp.pdb
+C:\Users\neill\GuideDemoApp\obj\Debug\netcoreapp3.1\GuideDemoApp.csprojAssemblyReference.cache
+C:\Users\neill\GuideDemoApp\obj\Debug\netcoreapp3.1\GuideDemoApp.AssemblyInfoInputs.cache
+C:\Users\neill\GuideDemoApp\obj\Debug\netcoreapp3.1\GuideDemoApp.AssemblyInfo.cs
+C:\Users\neill\GuideDemoApp\obj\Debug\netcoreapp3.1\GuideDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\neill\GuideDemoApp\obj\Debug\netcoreapp3.1\GuideDemoApp.dll
+C:\Users\neill\GuideDemoApp\obj\Debug\netcoreapp3.1\GuideDemoApp.pdb
+C:\Users\neill\GuideDemoApp\obj\Debug\netcoreapp3.1\GuideDemoApp.genruntimeconfig.cache
